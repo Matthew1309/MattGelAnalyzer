@@ -12,17 +12,17 @@
 		<relativePath />
 	</parent>
 
-	<groupId>com.mycompany</groupId>        <!-- FIXME: Your organization groupId here -->
-	<artifactId>GaussFiltering</artifactId> <!-- FIXME: Your project artifactId here   -->
-	<version>0.1.0-SNAPSHOT</version>
+	<groupId>edu.ucsd.mkozubov</groupId>        <!-- FIXME: Your organization groupId here -->
+	<artifactId>MattGelAnalyzer</artifactId> <!-- FIXME: Your project artifactId here   -->
+	<version>1</version>
 
-	<name>Gauss Filtering</name>                                               <!-- FIXME: Your project name here          -->
-	<description>A Maven project implementing an ImageJ command.</description> <!-- FIXME: Your project description here   -->
-	<url>https://mycompany.com/imagej/gauss-filtering/</url>                   <!-- FIXME: Your project website here       -->
-	<inceptionYear>2017</inceptionYear>                                        <!-- FIXME: Your project starting year here -->
+	<name>Matt Gel Analyzer</name>                                               <!-- FIXME: Your project name here          -->
+	<description>A Maven project augmenting the GelAnalyzer function to prompt the user if they want to save density readings to .CSV file</description> <!-- FIXME: Your project description here   -->
+	<url>https://github.com/Matthew1309</url>                   <!-- FIXME: Your project website here       -->
+	<inceptionYear>2024</inceptionYear>                                        <!-- FIXME: Your project starting year here -->
 	<organization>
-		<name>My Company</name>           <!-- FIXME: Your organization name here    -->
-		<url>https://mycompany.com/</url> <!-- FIXME: Your organization website here -->
+		<name>Schoenbein lab</name>           <!-- FIXME: Your organization name here    -->
+		<url>https://github.com/Matthew1309</url> <!-- FIXME: Your organization website here -->
 	</organization>
 	<licenses>
 		<license>                         <!-- FIXME: Your license here -->
@@ -35,9 +35,9 @@
 	<developers>
 		<!-- See https://imagej.net/Team -->
 		<developer>
-			<id>octocat</id>                                          <!-- FIXME: Your GitHub handle here -->
-			<name>Noma Onomatopoeia</name>                            <!-- FIXME: Your name here          -->
-			<url>https://mycompany.com/people/noma-onomatopoeia</url> <!-- FIXME: Your website here       -->
+			<id>mkozubov</id>                                          <!-- FIXME: Your GitHub handle here -->
+			<name>Matthew Kozubov</name>                            <!-- FIXME: Your name here          -->
+			<url>https://github.com/Matthew1309</url> <!-- FIXME: Your website here       -->
 			<roles>
 				<role>founder</role>
 				<role>lead</role>
